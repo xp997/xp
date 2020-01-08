@@ -100,10 +100,7 @@
     <!-- poi End -->
 
 
-    <!-- 代码生成器 Begin
-     使用完记得注释掉，不注释掉会jar包冲突
-     fix TODO
-     -->
+    <!-- 代码生成器 Begin -->
     <dependency>
     <groupId>com.baomidou</groupId>
     <artifactId>mybatis-plus-generator</artifactId>
