@@ -1,0 +1,12 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    #局域网
+    # xp的阿里云
+    url: jdbc:mysql://120.77.253.48:3306/xpBlog?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+    #xp的阿里云密码
+    password: 1096150741
+    driverClassName: com.mysql.jdbc.Driver
+    username: root
+    type: com.alibaba.druid.pool.DruidDataSource

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="923231f8-c546-4154-9ed3-c4fe3c048c7c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UdvNwELulhiUknk42ietqbBY4U" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/cn/xp1997/xp/sys/shiro/controller" />
+      <recent name="$PROJECT_DIR$/src/main/java/cn/xp1997/xp/config" />
+      <recent name="$PROJECT_DIR$/src/main/java/cn/xp1997/xp/controller" />
+      <recent name="$PROJECT_DIR$/src/main/java/cn/xp1997/xp/entity" />
+      <recent name="$PROJECT_DIR$/src/main/java/cn/xp1997/xp/service/impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.xp1997.xp.sys.config" />
+      <recent name="cn.xp1997.xp.sys.base" />
+      <recent name="cn.xp1997.xp.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/mapper" />
+      <recent name="$PROJECT_DIR$/src/main/java/cn/xp1997/xp/sys/shiro/mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MBG">
+    <configuration name="MBG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.xp1997.xp.sys.mbg.MBG" />
+      <module name="xp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xp1997.xp.sys.mbg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xp1997.xp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.xp1997.xp.XpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MBG" />
+        <item itemvalue="Spring Boot.XpApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="923231f8-c546-4154-9ed3-c4fe3c048c7c" name="Default Changelist" comment="" />
+      <created>1575699249678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575699249678</updated>
+      <workItem from="1575699252103" duration="1952000" />
+      <workItem from="1575702922762" duration="702000" />
+      <workItem from="1575704170584" duration="141000" />
+      <workItem from="1575704367029" duration="2163000" />
+      <workItem from="1576408691684" duration="860000" />
+      <workItem from="1576890581124" duration="4446000" />
+      <workItem from="1577171705268" duration="7900000" />
+      <workItem from="1577242001964" duration="3721000" />
+      <workItem from="1577331114880" duration="5992000" />
+      <workItem from="1577509395544" duration="15000" />
+      <workItem from="1577687880621" duration="2058000" />
+      <workItem from="1578024570433" duration="21000" />
+      <workItem from="1578129373103" duration="84000" />
+      <workItem from="1578130145720" duration="614000" />
+      <workItem from="1578378418323" duration="19983000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/xp$XpApplication.ic" NAME="XpApplication Coverage Results" MODIFIED="1577688017118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.xp1997.xp.*</FILTER>
+    </SUITE>
+  </component>
+</project>
